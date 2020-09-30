@@ -1,7 +1,7 @@
 var nombre = 'Jennifer'
 var apellido = 'Alvarado'
 
-var nombre_ = 'jennifer', apellido_ = 'alvarado'
+var nombre_ = 'guillermo', apellido_ = 'pizarro'
 
 var nombreMayusculas = nombre.toUpperCase()
 var apellidoMayusculas = apellido.toUpperCase()

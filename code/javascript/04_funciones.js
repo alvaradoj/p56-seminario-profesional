@@ -17,6 +17,6 @@ var imprimirEdad3 = function(nombre, edad) {
 }
 
 imprimirEdad( nombreApellido, edad )
-imprimirEdad( 'Leo Alvarado', 16 )
+imprimirEdad( ' Leo Alvarado', 1 )
 imprimirEdad2( nombreApellido, edad )
-imprimirEdad3( 'Mimi Alvarado', 10 )
+imprimirEdad3( 'Mimi Alvarado', 4 )
