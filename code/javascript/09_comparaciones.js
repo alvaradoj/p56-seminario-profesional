@@ -1,6 +1,6 @@
 var docente = {
     nombre: 'Guillermo',
-    apellido: 'Pizarro',
+    apellido: 'Andrade',
 }
 
 var docente2 = {
