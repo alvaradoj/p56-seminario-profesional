@@ -48,5 +48,5 @@ objeto1.soyAlto()
 var objeto2 = new Deportista('Luis', 'Gonzalez')
 objeto2.saludar()
 objeto2.saludar2(objeto2.nombre, objeto2.apellido)
-objeto2.altura = 1.80
+objeto2.altura = 1.70
 objeto2.soyAlto()
