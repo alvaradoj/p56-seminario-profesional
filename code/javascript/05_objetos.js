@@ -6,7 +6,7 @@ var docente1 = {
 }
 
 var docente2 = {
-    nombre: 'Juan',
+    nombre: 'Luis',
     apellido: 'Andrade',
     afiliacion: 'Universidad Politécnica Salesiana',
     correo_electronico: 'jandrade@ups.edu.ec',
