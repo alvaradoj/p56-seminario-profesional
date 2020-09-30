@@ -1,7 +1,7 @@
 var persona = {
     nombre: 'Luis',
-    apellido: 'Rodriguez',
-    edad: 25,
+    apellido: 'Lopez',
+    edad: 24,
     universidad: 'Universidad Politécnica Salesiana',
     correoElectronico: 'lrodriguez@est.ups.edu.ec',
     ingeniero: true,
