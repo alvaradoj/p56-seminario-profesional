@@ -95,4 +95,4 @@ console.log( `La cantidad de libros en total es ${sum}` )
 const contabilizarLibros = (acum, { cantidadLibros }) => acum + cantidadLibros
 var totalLibros = personas.reduce( contabilizarLibros, 0)
 
-console.log( `La cantidad de libros en total es ${totalLibros}` )
+console.log( `La cantidad de libros en total de ${totalLibros}` )
