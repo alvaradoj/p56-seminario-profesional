@@ -1,3 +1,0 @@
-UNIVERSIDAD POLITENICA SALESIANA
-carrera de Ingenieria en Sistemas
-SEMINARIO PROFESIONAL - Node.js + MongoDB
